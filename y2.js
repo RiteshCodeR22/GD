@@ -8,7 +8,8 @@ function GD() {
         console.log(data);
         // console.log(data);
         document.getElementById('a').textContent=data.length;
-        console.log(data.length     );
+       // console.log(data.length );  
+         console.log(data.length );
 
 
     })
